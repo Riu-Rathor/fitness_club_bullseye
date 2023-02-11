@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 2rem;
+  color: rgb(16, 111, 132);
+}
+
+
+body {
+  position: relative;
+  background-color: rgb(211, 228, 235);
+}
+
+
+.members-list-btn {
+  position: absolute;
+  top: 63%;
+  left: 44%;
+  display: block;
+  color: white;
+  background-color: rgb(14, 94, 104);
+  padding: 0.6rem 1rem;
+  border-radius: 0.6rem;
+  position:sticky;
+  margin-top: 0.5rem;
+}
+
